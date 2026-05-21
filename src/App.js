@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from "react";
 import { Search, Bookmark, CheckCircle, Film, Tv, X } from "lucide-react";
 
-const API_KEY = "BURAYA_API_KEY";
+const API_KEY = "4b133907256021b477d7644ac223471a";
 const BASE_URL = "https://api.themoviedb.org/3";
 const IMAGE_URL = "https://image.tmdb.org/t/p/w500";
 
